@@ -1,0 +1,7 @@
+{
+  "name": "nroho",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
